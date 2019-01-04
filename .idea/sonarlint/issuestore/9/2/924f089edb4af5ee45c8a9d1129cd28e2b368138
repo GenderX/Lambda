@@ -1,0 +1,21 @@
+
+Jsquid:S1481",Remove this unused "players" local variable.(¥Öæä8ÀÚÛšş,
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾Ï›ˆ8şÂÓÊş,
+\squid:UselessImportCheck"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8²««šş,
+nsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(Ô­Ô¸şÿÿÿÿ8Áóƒšş,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(«òˆì8±‰âÊş,
+hsquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8§¦æÂş,
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Öø°–8Äå©šş,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(«ñ¥ïûÿÿÿÿ8—ô×Êş,
+isquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(úÎÒ²8”³­Èş,
+isquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(ë¬Çƒ8ëòÊÊş,
+Usquid:S3655"7Call "Optional#isPresent()" before accessing the value.(ãàŞ¤8ÁÛáÊş,
+|squid:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ8Ó‚çÂş,
+isquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(ìáÎ8”³­Èş,
+Ysquid:S1854";Remove this useless assignment to local variable "players".(¥Öæä8ÀÚÛšş,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(úú¦Í8øŞÊş,
+nsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(á¯÷™úÿÿÿÿ8”³­Èş,
+nsquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(Ê Ãâşÿÿÿÿ8ÒËÊş,
