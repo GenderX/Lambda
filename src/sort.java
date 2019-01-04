@@ -8,7 +8,7 @@ public class sort {
             while (l<h&&arr[h]>=povit)
                 h--;
             if(l<h){
-                int temp=arr[h];
+                int temp=arr[h];  //注释测试
                 arr[h]=arr[l];
                 arr[l]=temp;
                 l++;
